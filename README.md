@@ -1,7 +1,7 @@
 # Book Recommendation System
 
 ## Objective:
-Building a Book recommendation system for those websites who sell books
+Building a Book recommendation system
 
 ## Featured Techniques:
 
